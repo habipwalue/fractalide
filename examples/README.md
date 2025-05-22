@@ -5,9 +5,6 @@ This directory contains example applications built using the Fractalide architec
 ## Available Examples
 
 - **Chat Application**: A real-time chat system with rooms, users, and messages
-
-## Coming Soon
-
 - **Calculator**: A simple calculator demonstrating basic Fractalide concepts
 - **Image Processing Pipeline**: A pipeline for processing images through various transformations
 - **Web Server**: A simple HTTP server with routing capabilities

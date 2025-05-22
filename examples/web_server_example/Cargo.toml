@@ -1,0 +1,10 @@
+[package]
+name = "web_server_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# rustfbp = "0.3.34" # Commented out as it requires nightly Rust features
+capnp = "0.14.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
